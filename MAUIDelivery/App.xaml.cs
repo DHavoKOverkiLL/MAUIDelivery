@@ -8,7 +8,7 @@ namespace MAUIDelivery
         {
             InitializeComponent();
 
-            MainPage = new LoginView();
+            MainPage = new NavigationPage(new LoginView());
         }
     }
 }
