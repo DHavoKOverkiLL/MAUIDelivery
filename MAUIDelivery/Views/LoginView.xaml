@@ -33,7 +33,7 @@
                     Text="Welcome!"
                     TextColor="#2D2D2D" />
                 <Label
-                    FontFamily="medium"
+                    FontFamily="regular"
                     Text="Log-In to continue!"
                     TextColor="#A3A3A4" />
                 <Grid Margin="0,30,0,0" ColumnDefinitions=".2*,.8*">

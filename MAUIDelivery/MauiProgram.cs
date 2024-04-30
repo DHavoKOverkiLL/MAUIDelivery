@@ -16,7 +16,9 @@ namespace MAUIDelivery
                     fonts.AddFont("OpenSans-Regular.ttf", "OpenSansRegular");
                     fonts.AddFont("OpenSans-Semibold.ttf", "OpenSansSemibold");
                     fonts.AddFont("latobold.ttf", "bold");
-                    fonts.AddFont("latoregular.ttf", "medium");
+                    fonts.AddFont("latoblack.ttf", "black");
+                    fonts.AddFont("latoitalic.ttf", "italic");
+                    fonts.AddFont("latoregular.ttf", "regular");
                     fonts.AddFont("FontAwesome6FreeSolid900.otf", "AwesomeSolid");
                 });
 
